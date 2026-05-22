@@ -6,7 +6,7 @@ const SECTION_TITLE = '—> PEDIDO DE ESTOQUE <—';
 const MESSAGE_TITLE = '🚨 Nova Solicitação 🚨';
 
 // Mantidas no código, como solicitado.
-const TELEGRAM_BOT_TOKEN = '8675551330:AAH5G9TcjqoI-rjvCr-QBAlQ4Wsxkolu9hY';
+const TELEGRAM_BOT_TOKEN = '8856057252:AAFLUX79llnlyXA3Tm2g2amR9rmPHJGic1I';
 const TELEGRAM_CHAT_ID = '-1003692290098'
 
 const MATERIALS = [
